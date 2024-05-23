@@ -1,4 +1,5 @@
-x=10
-y=15
+a=20
+z=15
 resultado=x+y
 print(resultado)
+
